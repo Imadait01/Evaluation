@@ -45,3 +45,8 @@ Une base de données configurée (selon application.properties)
 Cloner le dépôt : git clone [URL_du_dépôt]
 
 Mettre à jour le fichier de configuration src/main/resources/application.properties avec les informations de connexion à votre base de données (URL, nom d'utilisateur, mot de passe).
+
+<img width="1887" height="833" alt="Exo22" src="https://github.com/user-attachments/assets/db049be4-7fdc-47ea-9f6c-7674011ce71f" />
+
+<img width="1839" height="972" alt="Exo2" src="https://github.com/user-attachments/assets/6fb4c5cd-3b88-4bec-b9c2-6ff94d7f5622" />
+
