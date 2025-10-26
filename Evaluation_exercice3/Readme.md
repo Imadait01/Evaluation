@@ -57,5 +57,9 @@ hibernate.connection.password=
 hibernate.hbm2ddl.auto=update
 hibernate.show_sql=true
 
+<img width="1909" height="523" alt="Exo3" src="https://github.com/user-attachments/assets/b63ad978-b18f-4cfb-9dd9-9b26f33df3ab" />
+
+<img width="1796" height="957" alt="Exo33" src="https://github.com/user-attachments/assets/ebcb7cfa-ce65-4e1c-aae7-01e513109c61" />
+
 
 
