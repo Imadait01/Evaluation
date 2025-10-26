@@ -51,3 +51,7 @@ le fichier de configuration : src/main/resources/application.properties.
 Mettre à jour les propriétés de connexion de la base de données (URL, utilisateur, mot de
 
 passe) selon votre environnement.
+
+<img width="1882" height="367" alt="Exo1" src="https://github.com/user-attachments/assets/03a0dd05-7b02-49b5-9a99-e1b9846e3d0d" />
+<img width="1826" height="976" alt="Exo11" src="https://github.com/user-attachments/assets/98abce83-a3f2-4b5f-89da-32f4644faad8" />
+
